@@ -16,9 +16,9 @@ public class Main {
         List<String> dailyFortunes = Arrays.asList(
                 "Today is your lucky day!",
                 "Be cautious in your decisions today.",
-                "A surprise is waiting for you.",
-                "Success is on the horizon.",
-                "Your hard work will pay off."
+                "A shitty surprise is waiting for you.",
+                "Success is not on the horizon.",
+                "Your hard work will never pay off."
         );
 
         List<String> luckyNumbersFortunes = Arrays.asList(
